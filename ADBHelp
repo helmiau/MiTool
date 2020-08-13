@@ -1,0 +1,26 @@
+-----------------------------------------
+Mi In One Tool by Helmi Amirudin
+-----------------------------------------
+ADB Android Debugging Bridge Menu Helper [Online]
+-----------------------------------------
+1. Sideload ZIP
+  - Connect device with ADB Debugging ON
+  - Go to TWRP or your own custom recovery
+  - Goto Tools/Menu
+  - ADB & Sideload
+  - Swipe 
+  - Then do sideload zip from this app
+
+2. Installing APK
+  - Connect device with ADB Mode ON
+  - Drag APK to this app
+  - Click "Install APK"
+
+3. View Installed APK's
+  - Connect device
+  - Click "Installed APK's"
+
+4. Uninstall APK
+  - Connect device
+  - Input package name to box
+  - Click "Uninstall APK"
