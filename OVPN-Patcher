@@ -1,0 +1,17 @@
+OVPN Patcher by Helmi Amirudin (helmiau)
+==========================
+Created by	: Helmi Amirudin
+Facebook	: https://fb.me/helmiau
+Messenger	: https://m.me/helmiau
+WhatsApp	: https://bit.ly/helmiau
+Telegram	: https://t.me/helmiau
+Twitter	: https://twitter.com/helmiau
+Github  : https://github.com/helmiau
+==========================
+Guide Usage :
+==========================
+Fill PING coloumn and TIMEOUT coloumn to use keepalive
+this coloumn is beside KeepAlive Connection Checkbox
+Check USE HTTP PROXY ROUTING to use it, and uncheck to leave it
+Check KeepAlive connection to use, and uncheck to leave it
+===========================
